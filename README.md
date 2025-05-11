@@ -179,4 +179,28 @@
 
 ![WhatsApp Image 2025-05-03 at 8 58 20 PM](https://github.com/user-attachments/assets/1235404a-58e2-4f85-a8ed-0c1141ef6e90)
 
+<p><h2>1. Bitácora de la Reunión y Modificaciones Aplicadas </h2></p>
+<p>Fecha de la reunión: 09 /05/25</p>
+<p>Participantes:</p>
+<p>- Erick Luna Ortiz (Product Owner)</p>
+<p>- Alexis Yahir Becerra Jimines (Scrum Master)</p>
+<p>- Ana Laura Alejandri Rodríguez (Desarrolladora)</p>
+<p><h3>Resumen de la reunión:</h3></p>
+<p>Durante esta sesión, se revisaron las observaciones de la actividad anterior, incluidas las recomendaciones del asesor. A partir de esto se aplicaron ajustes al backlog, cambios en la descripción y organización de los sprints, y actualizaciones en el repositorio de GitHub.</p>
+<p><h2>2. Nuevas Modificaciones Realizadas</h2></p>
+<p>Modificaciones al Backlog:</p>
+<p>- Se eliminó la historia repetida ID-US007.</p>
+<p>- Se reordenaron los ID de las historias para evitar duplicidad.</p>
+<p>- Se detallaron actividades específicas en las historias de usuario.</p>
+<p>- Se agregó una historia sobre la capacitación docente virtual.</p>
+<p><h3>Modificaciones en GitHub:</h3></p>
+<p>- Archivos actualizados reflejando las nuevas historias y correcciones.</p>
+<p>- Documentos del backlog y el Sprint Schedule reestructurados.</p>
+<p>- Nuevos commits con descripciones claras de los cambios.</p>
+<p><h3>Link del repositorio actualizado:</h3></p>
+<p>https://github.com/AnaAlejandri/Reunion-Inicial.git</p>
+<p><h2>3. Backlog actualizado (resumen)</h2></p>
+<p>El backlog actualizado incluye 10 historias de usuario claramente diferenciadas, asignadas según prioridad, con responsables designados, tiempo estimado y entregables claros. Las historias incluyen funcionalidades clave del sitio web educativo como acceso a recursos, interacción docente-estudiante, y soporte técnico.</p>
+
 <p>Se integra link de github donde se realizo el trabajo:  https://github.com/AnaAlejandri/Reunion-Inicial.git </p>
+
